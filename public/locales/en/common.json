@@ -1,0 +1,8 @@
+{
+  "pages": {
+    "home": {
+      "count_number": "count is {{count}}",
+      "read_docs": "Click on the Vite and React logos to learn more"
+    }
+  }
+}
